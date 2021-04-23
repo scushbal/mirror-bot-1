@@ -1,6 +1,6 @@
 [![Mirror bot](https://telegra.ph/file/47f90a470500a0ad42f39.png)](https://youtu.be/Pk_TthHfLeE)
 
-# Slam Mirror Bot
+# Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 # Features supported:
