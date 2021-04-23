@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Mirror bot](https://telegra.ph/file/47f90a470500a0ad42f39.png)](https://youtu.be/Pk_TthHfLeE)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -203,11 +203,9 @@ cancelall - Cancel all tasks
 del - Delete file from Drive
 list - [query] searches files in G-Drive
 status - Get Mirror Status message
-stats - Bot Usage Stats
+info - Bot Usage Stats
 help - Get Detailed Help
-speedtest - Check Speed of the host
-log - Bot Log [owner only]
-repo - Get the bot repo
+report - Bot Log [owner only]
 ```
 
 ## Using service accounts for uploading to avoid user rate limit
@@ -254,5 +252,6 @@ Thanks to:
 - [Dank-del](https://github.com/Dank-del/) for base repo
 - [magneto261290](https://github.com/magneto261290/) for some features
 - [SVR666](https://github.com/SVR666/) for some features & fixes
+- [Slam](https://github.com/breakdowns/slam-mirrorbot) for repo I use to edit
 
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/slam-mirrorbot/graphs/contributors).
+and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/Slam-mirror/graphs/contributors).
